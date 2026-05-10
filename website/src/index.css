@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@theme { 
+  --color-font-white: #f8f6f7;
+  --color-fondo: #262353;
+}
+
+:root{
+  background-color: #262353;
+  font-family: "Arimo", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
